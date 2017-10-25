@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/Renas/Desktop/tese/Jar/Backend.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/JavaBackend WebService/src/Backend.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=JavaBackend WebService/src&lt;main{Main.java[Main" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <folder path="/JavaBackend WebService/WebContent"/>
+        <javaElement handleIdentifier="=JavaBackend WebService/src"/>
+        <folder path="/JavaBackend WebService/build"/>
+        <file path="/JavaBackend WebService/.classpath"/>
+        <file path="/JavaBackend WebService/.project"/>
+    </selectedElements>
+</jardesc>
